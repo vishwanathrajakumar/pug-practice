@@ -1,0 +1,26 @@
+{
+  "name": "pug-practice",
+  "version": "0.0.1",
+  "description": "Getting my hands dirty with Pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwanathrajakumar/pug-practice.git"
+  },
+  "author": "Vishwanath Rajakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwanathrajakumar/pug-practice/issues"
+  },
+  "homepage": "https://github.com/vishwanathrajakumar/pug-practice#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "pug": "^3.0.2"
+  }
+}
